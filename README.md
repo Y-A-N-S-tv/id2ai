@@ -20,3 +20,7 @@ Options:
 
 - `--debug` keeps the intermediate files
 - `--help`, `-h` shows the help
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
